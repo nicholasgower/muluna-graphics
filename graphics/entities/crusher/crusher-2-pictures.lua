@@ -16,7 +16,7 @@ function crusher_integration_patch_vertical()
 end
 
 function crusher_animation_horizontal_main()
-  return util.sprite_load("__planet-muluna__/graphics/entities/crusher/crusher-2-horizontal",
+  return util.sprite_load("__muluna-graphics__/graphics/entities/crusher/crusher-2-horizontal",
   {
     animation_speed = 0.5,
     frame_count = 48,
@@ -37,7 +37,7 @@ function crusher_animation_horizontal_shadow()
 end
 
 function crusher_animation_vertical_main()
-  return util.sprite_load("__planet-muluna__/graphics/entities/crusher/crusher-2-vertical",
+  return util.sprite_load("__muluna-graphics__/graphics/entities/crusher/crusher-2-vertical",
   {
     animation_speed = 0.5,
     frame_count = 48,

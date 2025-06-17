@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.15
+Date: 2025-06-17
+  Graphics:
+    - Adjusted scale and removed background of space chest technology icon. https://github.com/nicholasgower/planet-muluna/issues/198
+---------------------------------------------------------------------------------------------------
 Version: 1.0.14
 Date: 2025-04-21
   Graphics:

@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.16
+Date: 2025-06-20
+  Graphics:
+    - Replaced non-mipped icons with mipped icons to eliminate a log warning. https://github.com/nicholasgower/planet-muluna/issues/200
+---------------------------------------------------------------------------------------------------
 Version: 1.0.15
 Date: 2025-06-17
   Graphics:

@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.17
+Date: 2025-06-21
+  Graphics:
+    - Replaced "Asteroid Collector" technology icon with version with more detail(Editing by MeteorSwarm, Initial AI upscale by Snouz).
+---------------------------------------------------------------------------------------------------
 Version: 1.0.16
 Date: 2025-06-20
   Graphics:

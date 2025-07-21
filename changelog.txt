@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.21
+Date: 2025-07-21
+  Graphics:
+    - Added icon for Lunar regolith, from Brevven's Aluminum mod. Asset by Snouz.
+    - Added new icon for crushed alumina(Grayscale version of Moshine sand icon, by Snouz)
+    - Added technology-scale icons for oxygen and carbon dioxide molecules. From unused-renders.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.20
 Date: 2025-07-14
   Graphics:

@@ -16,6 +16,8 @@ graphics/mipgenerator export-ignore
 graphics/generate_circles.py export-ignore
 *.xcf export-ignore
 *.gif export-ignore
+*.wav export-ignore
+*.sh export-ignore
 graphics/research-center export-ignore
 graphics/greenhouse/preview export-ignore
 *-original.png export-ignore

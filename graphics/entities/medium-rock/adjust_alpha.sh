@@ -18,7 +18,7 @@ for f in "$@"; do
     # You can tweak the expression for other mappings.
     convert "$INPUT" \
     -channel A \
-    -fx 'a<=0.5 ? a*(0.8/0.5) : 0.8 + (a-0.5)*(0.2/0.5)' \
+    -fx 'a<=0.8 ? a*(0.9/0.8) : 0.9 + (a-0.8)*(0.2/0.8)' \
     "output/$f"
 
     echo "Saved adjusted file to $OUTPUT"

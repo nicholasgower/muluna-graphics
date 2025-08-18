@@ -7,7 +7,7 @@
   "description": "[SHORT DESCRIPTION]",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base >= 2.0.64"
   ],
   "quality_required": false,
   "rail_bridges_required": false,

@@ -21,3 +21,5 @@ graphics/generate_circles.py export-ignore
 graphics/research-center export-ignore
 graphics/greenhouse/preview export-ignore
 *-original.png export-ignore
+*.obj export-ignore
+3d-assets export-ignore

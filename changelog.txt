@@ -3,6 +3,13 @@ Version: 1.1.2
 Date: 2025-09-05
   Graphics:
     - Added new achievement graphics.
+  Changes:
+    - New release
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2025-09-05
+  Graphics:
+    - Added new achievement graphics.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.1
 Date: 2025-08-18

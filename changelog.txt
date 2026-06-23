@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2026-06-23
+  Bugfixes:
+    - Removed executable files from release to comply with the mod portal's new policy regarding including executable scripts inside mod files.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.5
 Date: 2026-06-23
   Graphics:

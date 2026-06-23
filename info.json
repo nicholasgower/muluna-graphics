@@ -5,9 +5,9 @@
   "author": "MeteorSwarm",
   "homepage": "https://discord.gg/8pD6A3JRtZ",
   "description": "[SHORT DESCRIPTION]",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.60"
+    "base >= 2.1.7"
   ],
   "quality_required": false,
   "rail_bridges_required": false,

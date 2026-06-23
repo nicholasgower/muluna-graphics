@@ -23,3 +23,8 @@ graphics/greenhouse/preview export-ignore
 *-original.png export-ignore
 *.obj export-ignore
 3d-assets export-ignore
+*.py export-ignore
+*.exe export-ignore
+*.bat export-ignore
+*.ps1 export-ignore
+*.sh export-ignore

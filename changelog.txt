@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 2026-06-25
+  Graphics:
+    - Copied old Assembling Machine 3 pipe graphics from Factorio 2.0 to ensure they remain available for Muluna to use.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.7
 Date: 2026-06-23
   Compatibility:

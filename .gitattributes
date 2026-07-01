@@ -28,3 +28,4 @@ graphics/greenhouse/preview export-ignore
 *.bat export-ignore
 *.ps1 export-ignore
 *.sh export-ignore
+graphics/modules export-ignore

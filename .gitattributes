@@ -29,3 +29,5 @@ graphics/greenhouse/preview export-ignore
 *.ps1 export-ignore
 *.sh export-ignore
 graphics/modules export-ignore
+*.aup3 export-ignore
+*.aup3-wal export-ignore

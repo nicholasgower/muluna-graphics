@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.14
+Date: 2026-07-10
+  Graphics:
+    - Deleted some more unused assets and replaced excessively detailed technology icons with mipmapped versions with reduced filesize and a more appropriate resolution.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.13
 Date: 2026-07-09
   Sounds:

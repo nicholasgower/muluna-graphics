@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.17
+Date: 2026-08-24
+  Graphics:
+    - Updated telescope alert icon to use pollution symbol created by Zack Gomez for the Pollution Combinator mod.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.16
 Date: 2026-08-24
   Graphics:
